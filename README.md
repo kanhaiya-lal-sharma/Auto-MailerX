@@ -24,9 +24,7 @@ Auto-mailerX/
 ├── frontend/ # React frontend (simple form)
 └── backend/ # Express backend (email sending logic)
 ```
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -44,16 +42,15 @@ Edit
 cd backend
 npm install
 node index.js
+```
+
 🌐 Environment Variables (Backend)
 Create a .env file inside the backend/ folder:
-
-env
-Copy
-Edit
+```
 EMAIL_USER=your_email@example.com
 EMAIL_PASS=your_app_password
 ⚠️ Make sure to enable 2FA and generate an App Password if using Gmail.
-
+```
 🚀 Deployment
 Frontend hosted on Vercel
 
