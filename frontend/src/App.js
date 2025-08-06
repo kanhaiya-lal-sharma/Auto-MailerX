@@ -8,7 +8,7 @@ function App() {
     e.preventDefault();
 
     try {
-      const res = await fetch("https://auto-mailerx.onrender.com/send-email", {
+      const res = await fetch("https://auto-mailerx.onrender.com/send-mail", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
