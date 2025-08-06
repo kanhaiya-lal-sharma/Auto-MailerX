@@ -55,11 +55,15 @@ EMAIL_PASS=your_app_password
 🚀 Deployment
 
 Frontend hosted on Vercel
+
 Backend hosted on Render
+
 (Live links are not included for privacy and misuse prevention)
 
 👨‍💻 Developer
+---
 Kanhaiya Lal Sharma
 📩 imkanhaiya@yahoo.com
 📍 Ghaziabad, India
 🎓 MCA | Full Stack Developer
+---
