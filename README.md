@@ -19,11 +19,11 @@ Auto-MailerX is a smart, fast, and efficient MERN-based web app built to automat
 ---
 
 ## 📁 Project Structure
-
+```
 Auto-mailerX/
 ├── frontend/ # React frontend (simple form)
 └── backend/ # Express backend (email sending logic)
-
+```
 yaml
 Copy
 Edit
