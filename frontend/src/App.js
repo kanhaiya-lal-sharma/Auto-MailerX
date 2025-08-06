@@ -18,7 +18,8 @@ function App() {
 
       const text = await res.text();
       setResponseMsg(text);
-      setEmail(""); // clear input
+      setEmail(""); // clear email input
+      setName(""); //clear name input
     } catch (err) {
       setResponseMsg("❌ Error sending email");
     }
