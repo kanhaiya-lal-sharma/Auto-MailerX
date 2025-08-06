@@ -15,21 +15,18 @@ app.post("/send-mail", async (req, res) => {
   <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6;">
     <p>Hi ${Name},</p>
 
-    <p>
-      I’m <strong>Kanhaiya Lal Sharma</strong>, a <strong>Full Stack Developer</strong> with <strong>1 years</strong> of experience in building scalable web applications using <strong>Node.js, Express, MongoDB, and React.js</strong>.
-    </p>
+<p>
+  I'm <strong>Kanhaiya Lal Sharma</strong>, a <strong>Full Stack Developer</strong> with <strong>1 year</strong> of experience in building scalable web applications using <strong>Node.js, Express, MongoDB, and React.js</strong>.
+</p>
 
-    <p>
-      I’ve developed secure CRM platforms with <strong>JWT authentication</strong>, <strong>role-based access</strong>, and clean REST APIs, along with responsive UIs using <strong>React Hooks</strong> and modular components.
-    </p>
+<p>
+  I'm open to <strong>front-end</strong>, <strong>back-end</strong>, or <strong>full-stack</strong> roles.
+</p>
 
-    <p>
-      I hold an <strong>MCA from KIIT Bhubaneswar</strong> and am currently open to new opportunities where I can contribute and grow.
-    </p>
+<p>
+  Please find my resume attached — would love to connect if there's a relevant opportunity.
+</p>
 
-    <p>
-      I've attached my resume — would love to connect if there's a suitable role.
-    </p>
 
     <br />
     <p>
