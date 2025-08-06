@@ -20,6 +20,9 @@ app.post("/send-mail", async (req, res) => {
 </p>
 
 <p>
+  I've built secure CRM systems with <strong>JWT authentication</strong>, <strong>role-based access control</strong>, and clean, scalable <strong>REST APIs</strong>.
+</p>
+<p>
   I'm open to <strong>front-end</strong>, <strong>back-end</strong>, or <strong>full-stack</strong> roles.
 </p>
 
