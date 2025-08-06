@@ -1,6 +1,6 @@
 **Auto-mailerX** is a basic fullstack email sender application built using **React.js** for the frontend and **Node.js + Express + Nodemailer** for the backend.
 
-It allows you to send custom emails with a name and email address using a simple form.
+Auto-MailerX is a smart, fast, and efficient MERN-based web app built to automate the process of sending cold emails to recruiters. Whether you're job hunting or networking, Auto-MailerX helps you scale your outreach with personalized messages, resume attachments, and zero manual effort.
 
 ---
 
